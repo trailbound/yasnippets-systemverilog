@@ -1,0 +1,3 @@
+class ${2:$$(yas-choose-value '("uvm_object" "uvm_component"))};
+
+endclass;
